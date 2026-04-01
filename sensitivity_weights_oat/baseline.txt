@@ -1,0 +1,17 @@
+Baseline (unperturbed data_crisp -> fuzzy AHP)
+winner: GHI
+RC: 0.0360895
+
+criterion	normalized_weight
+GHI	0.20760241016
+Average temperature	0.156732767463
+Slope	0.127858317076
+Aspect	0.0906804266895
+Surface Albedo	0.0647987699851
+Air pressure	0.0950230938378
+Proximity to urban area	0.0529932173511
+Proximity to power transmission line	0.0679282725808
+Proximity to main roads	0.0456719165234
+Precipitation	0.0302369361114
+Cloud amount	0.0302369361114
+Relative humidity	0.0302369361114

@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: Air pressure vs Proximity to power transmission line
+matrix indices (upper tri): i=5, j=7
+change: down×2  (comparison value 2 -> 0.5)
+RC: 0.0397371
+saved_as: step2_Air_pressure_vs_Proximity_to_power_transmission_line_downx2_from2_to0.5.txt
+
+criterion	normalized_weight
+GHI	0.207994472398
+Average temperature	0.157028916319
+Slope	0.128099884415
+Aspect	0.0908516925513
+Surface Albedo	0.0649211004246
+Air pressure	0.0863058853512
+Proximity to urban area	0.0530931819067
+Proximity to power transmission line	0.0750655552539
+Proximity to main roads	0.0457579997034
+Precipitation	0.0302937705591
+Cloud amount	0.0302937705591
+Relative humidity	0.0302937705591

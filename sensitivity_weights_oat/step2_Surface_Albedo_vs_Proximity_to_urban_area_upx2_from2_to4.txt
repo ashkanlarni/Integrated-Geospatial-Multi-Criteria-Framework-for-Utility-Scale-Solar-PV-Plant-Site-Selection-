@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: Surface Albedo vs Proximity to urban area
+matrix indices (upper tri): i=4, j=6
+change: up×2  (comparison value 2 -> 4)
+RC: 0.041614
+saved_as: step2_Surface_Albedo_vs_Proximity_to_urban_area_upx2_from2_to4.txt
+
+criterion	normalized_weight
+GHI	0.2077060906
+Average temperature	0.156796610885
+Slope	0.127902859813
+Aspect	0.0907125502518
+Surface Albedo	0.0683406465217
+Air pressure	0.0950542048924
+Proximity to urban area	0.0491025563653
+Proximity to power transmission line	0.0679467780308
+Proximity to main roads	0.0456841817421
+Precipitation	0.0302511736323
+Cloud amount	0.0302511736323
+Relative humidity	0.0302511736323

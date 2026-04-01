@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: Aspect vs Relative humidity
+matrix indices (upper tri): i=3, j=11
+change: up×2  (comparison value 3 -> 5)
+RC: 0.0370962
+saved_as: step2_Aspect_vs_Relative_humidity_upx2_from3_to5.txt
+
+criterion	normalized_weight
+GHI	0.207163851455
+Average temperature	0.156395079717
+Slope	0.12757937807
+Aspect	0.0941178730099
+Surface Albedo	0.0646559117452
+Air pressure	0.0948148591523
+Proximity to urban area	0.0528754071973
+Proximity to power transmission line	0.0677776898333
+Proximity to main roads	0.0455705661972
+Precipitation	0.0301726140751
+Cloud amount	0.0301726140751
+Relative humidity	0.0287041554727

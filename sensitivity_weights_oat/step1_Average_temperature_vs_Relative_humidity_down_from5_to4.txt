@@ -1,0 +1,20 @@
+OAT perturbation (step size 1 on AHP scale)
+pair: Average temperature vs Relative humidity
+matrix indices (upper tri): i=1, j=11
+change: down  (comparison value 5 -> 4)
+RC: 0.0364831
+saved_as: step1_Average_temperature_vs_Relative_humidity_down_from5_to4.txt
+
+criterion	normalized_weight
+GHI	0.208021757035
+Average temperature	0.154352139417
+Slope	0.128122012677
+Aspect	0.0908672981692
+Surface Albedo	0.064933316983
+Air pressure	0.0952196324085
+Proximity to urban area	0.0531038445475
+Proximity to power transmission line	0.0680698219318
+Proximity to main roads	0.0457671409835
+Precipitation	0.0302982629202
+Cloud amount	0.0302982629202
+Relative humidity	0.0309465100071

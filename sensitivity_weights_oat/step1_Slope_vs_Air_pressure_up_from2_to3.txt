@@ -1,0 +1,20 @@
+OAT perturbation (step size 1 on AHP scale)
+pair: Slope vs Air pressure
+matrix indices (upper tri): i=2, j=5
+change: up  (comparison value 2 -> 3)
+RC: 0.03821
+saved_as: step1_Slope_vs_Air_pressure_up_from2_to3.txt
+
+criterion	normalized_weight
+GHI	0.207695979786
+Average temperature	0.156784375288
+Slope	0.131936051787
+Aspect	0.0907038829459
+Surface Albedo	0.0648107548909
+Air pressure	0.0907038829459
+Proximity to urban area	0.0530002047717
+Proximity to power transmission line	0.0679384581899
+Proximity to main roads	0.0456784777774
+Precipitation	0.0302493105392
+Cloud amount	0.0302493105392
+Relative humidity	0.0302493105392

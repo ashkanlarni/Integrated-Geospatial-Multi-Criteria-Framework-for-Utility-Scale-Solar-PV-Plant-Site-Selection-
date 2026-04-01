@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: GHI vs Proximity to urban area
+matrix indices (upper tri): i=0, j=6
+change: up×2  (comparison value 4 -> 6)
+RC: 0.0363921
+saved_as: step2_GHI_vs_Proximity_to_urban_area_upx2_from4_to6.txt
+
+criterion	normalized_weight
+GHI	0.213345464753
+Average temperature	0.155998769863
+Slope	0.127252572163
+Aspect	0.0902512966152
+Surface Albedo	0.064488790436
+Air pressure	0.0945710518587
+Proximity to urban area	0.0507471213659
+Proximity to power transmission line	0.0676016635104
+Proximity to main roads	0.0454521296514
+Precipitation	0.0300970465946
+Cloud amount	0.0300970465946
+Relative humidity	0.0300970465946

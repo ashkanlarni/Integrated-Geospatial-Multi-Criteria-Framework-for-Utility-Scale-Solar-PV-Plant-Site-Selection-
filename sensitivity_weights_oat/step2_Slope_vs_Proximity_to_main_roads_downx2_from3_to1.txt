@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: Slope vs Proximity to main roads
+matrix indices (upper tri): i=2, j=8
+change: down×2  (comparison value 3 -> 1)
+RC: 0.0410605
+saved_as: step2_Slope_vs_Proximity_to_main_roads_downx2_from3_to1.txt
+
+criterion	normalized_weight
+GHI	0.209487189519
+Average temperature	0.158130272997
+Slope	0.116577387035
+Aspect	0.0914802786328
+Surface Albedo	0.0653638451831
+Air pressure	0.0958566737006
+Proximity to urban area	0.0534514691642
+Proximity to power transmission line	0.0685174205239
+Proximity to main roads	0.0496070644956
+Precipitation	0.0305094662495
+Cloud amount	0.0305094662495
+Relative humidity	0.0305094662495

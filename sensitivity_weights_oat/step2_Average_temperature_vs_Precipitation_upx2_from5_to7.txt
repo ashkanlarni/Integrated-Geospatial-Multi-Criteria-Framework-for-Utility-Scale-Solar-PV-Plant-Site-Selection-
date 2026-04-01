@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: Average temperature vs Precipitation
+matrix indices (upper tri): i=1, j=9
+change: up×2  (comparison value 5 -> 7)
+RC: 0.0363637
+saved_as: step2_Average_temperature_vs_Precipitation_upx2_from5_to7.txt
+
+criterion	normalized_weight
+GHI	0.206929125973
+Average temperature	0.160410961007
+Slope	0.127437627412
+Aspect	0.0903822372735
+Surface Albedo	0.064584578025
+Air pressure	0.0947098331465
+Proximity to urban area	0.0528174058032
+Proximity to power transmission line	0.0677031806438
+Proximity to main roads	0.0455205383454
+Precipitation	0.0292272245903
+Cloud amount	0.0301386438906
+Relative humidity	0.0301386438906

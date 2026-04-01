@@ -1,0 +1,20 @@
+OAT perturbation (step size 1 on AHP scale)
+pair: Air pressure vs Cloud amount
+matrix indices (upper tri): i=5, j=10
+change: up  (comparison value 3 -> 4)
+RC: 0.0362302
+saved_as: step1_Air_pressure_vs_Cloud_amount_up_from3_to4.txt
+
+criterion	normalized_weight
+GHI	0.207348681027
+Average temperature	0.156537047185
+Slope	0.127696459852
+Aspect	0.0905657770946
+Surface Albedo	0.0647157899003
+Air pressure	0.0970149689413
+Proximity to urban area	0.0529247303167
+Proximity to power transmission line	0.06784076143
+Proximity to main roads	0.0456130031488
+Precipitation	0.0301996808453
+Cloud amount	0.0293434194131
+Relative humidity	0.0301996808453

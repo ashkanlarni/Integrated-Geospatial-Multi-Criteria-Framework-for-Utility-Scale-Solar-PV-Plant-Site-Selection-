@@ -1,0 +1,20 @@
+OAT perturbation (step size 1 on AHP scale)
+pair: Average temperature vs Air pressure
+matrix indices (upper tri): i=1, j=5
+change: down  (comparison value 2 -> 1)
+RC: 0.0366649
+saved_as: step1_Average_temperature_vs_Air_pressure_down_from2_to1.txt
+
+criterion	normalized_weight
+GHI	0.209307277648
+Average temperature	0.147467722572
+Slope	0.12883030905
+Aspect	0.0913717967144
+Surface Albedo	0.0652781178293
+Air pressure	0.0984977457222
+Proximity to urban area	0.0533765183355
+Proximity to power transmission line	0.0684234678029
+Proximity to main roads	0.0460038255304
+Precipitation	0.0304810729314
+Cloud amount	0.0304810729314
+Relative humidity	0.0304810729314

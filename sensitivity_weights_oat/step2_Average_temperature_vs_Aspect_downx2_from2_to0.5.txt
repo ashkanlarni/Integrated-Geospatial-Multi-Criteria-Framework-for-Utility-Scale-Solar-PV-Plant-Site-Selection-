@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: Average temperature vs Aspect
+matrix indices (upper tri): i=1, j=3
+change: down×2  (comparison value 2 -> 0.5)
+RC: 0.0428962
+saved_as: step2_Average_temperature_vs_Aspect_downx2_from2_to0.5.txt
+
+criterion	normalized_weight
+GHI	0.208714306827
+Average temperature	0.142806579195
+Slope	0.128542500418
+Aspect	0.100583807756
+Surface Albedo	0.0651450461326
+Air pressure	0.0955312040226
+Proximity to urban area	0.0532760482517
+Proximity to power transmission line	0.0682911314062
+Proximity to main roads	0.0459154651069
+Precipitation	0.0303979702947
+Cloud amount	0.0303979702947
+Relative humidity	0.0303979702947

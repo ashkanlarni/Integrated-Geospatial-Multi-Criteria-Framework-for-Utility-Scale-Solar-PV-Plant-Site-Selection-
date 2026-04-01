@@ -1,0 +1,20 @@
+OAT perturbation (step size 2 on AHP scale)
+pair: Average temperature vs Surface Albedo
+matrix indices (upper tri): i=1, j=4
+change: down×2  (comparison value 3 -> 1)
+RC: 0.0393556
+saved_as: step2_Average_temperature_vs_Surface_Albedo_downx2_from3_to1.txt
+
+criterion	normalized_weight
+GHI	0.20974993625
+Average temperature	0.143177509157
+Slope	0.12913991454
+Aspect	0.0915903763426
+Surface Albedo	0.0704959435087
+Air pressure	0.0959711271713
+Proximity to urban area	0.0535139572048
+Proximity to power transmission line	0.0685978829233
+Proximity to main roads	0.0461214772228
+Precipitation	0.0305472918932
+Cloud amount	0.0305472918932
+Relative humidity	0.0305472918932
