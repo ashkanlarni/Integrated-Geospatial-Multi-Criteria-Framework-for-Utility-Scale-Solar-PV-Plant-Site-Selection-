@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Proximity to urban area vs Cloud amount
 matrix indices (upper tri): i=6, j=10
-change: down  (comparison value 2 -> 1)
+change: down  (comparison value 2.0 -> 1)
 RC: 0.0364319
 saved_as: step1_Proximity_to_urban_area_vs_Cloud_amount_down_from2_to1.txt
 

@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Air pressure vs Proximity to main roads
 matrix indices (upper tri): i=5, j=8
-change: down  (comparison value 2 -> 1)
+change: down  (comparison value 2.0 -> 1)
 RC: 0.0381277
 saved_as: step1_Air_pressure_vs_Proximity_to_main_roads_down_from2_to1.txt
 

@@ -1,4 +1,7 @@
-# Fuzzy AHP notebook (fuzzy.ipynb) — third-party packages only
+# main.ipynb — third-party packages only
+# pandas / numpy / matplotlib: data, arrays, plots (incl. sensitivity pie PNGs)
+# pydecision: fuzzy_ahp_method
+# openpyxl: pandas .to_excel for OAT summaries in results_summary/
 pandas>=2.0
 numpy>=1.24
 matplotlib>=3.7

@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Average temperature vs Surface Albedo
 matrix indices (upper tri): i=1, j=4
-change: down  (comparison value 3 -> 2)
+change: down  (comparison value 3.0 -> 2)
 RC: 0.0366121
 saved_as: step1_Average_temperature_vs_Surface_Albedo_down_from3_to2.txt
 

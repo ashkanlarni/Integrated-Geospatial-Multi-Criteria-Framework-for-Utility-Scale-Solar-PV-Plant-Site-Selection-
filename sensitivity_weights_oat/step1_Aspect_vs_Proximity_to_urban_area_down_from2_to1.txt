@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Aspect vs Proximity to urban area
 matrix indices (upper tri): i=3, j=6
-change: down  (comparison value 2 -> 1)
+change: down  (comparison value 2.0 -> 1)
 RC: 0.0368653
 saved_as: step1_Aspect_vs_Proximity_to_urban_area_down_from2_to1.txt
 

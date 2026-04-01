@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Aspect vs Surface Albedo
 matrix indices (upper tri): i=3, j=4
-change: down  (comparison value 2 -> 1)
+change: down  (comparison value 2.0 -> 1)
 RC: 0.0354134
 saved_as: step1_Aspect_vs_Surface_Albedo_down_from2_to1.txt
 

@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Air pressure vs Precipitation
 matrix indices (upper tri): i=5, j=9
-change: up  (comparison value 3 -> 4)
+change: up  (comparison value 3.0 -> 4)
 RC: 0.0362302
 saved_as: step1_Air_pressure_vs_Precipitation_up_from3_to4.txt
 

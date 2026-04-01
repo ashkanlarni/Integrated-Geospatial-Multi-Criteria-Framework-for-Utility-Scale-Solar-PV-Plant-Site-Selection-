@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: GHI vs Proximity to power transmission line
 matrix indices (upper tri): i=0, j=7
-change: up×2  (comparison value 3 -> 5)
+change: up×2  (comparison value 3.0 -> 5)
 RC: 0.0364713
 saved_as: step2_GHI_vs_Proximity_to_power_transmission_line_upx2_from3_to5.txt
 

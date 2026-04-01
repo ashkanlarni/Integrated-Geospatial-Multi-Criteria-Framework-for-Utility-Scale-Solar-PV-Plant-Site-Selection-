@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: GHI vs Proximity to main roads
 matrix indices (upper tri): i=0, j=8
-change: up  (comparison value 5 -> 6)
+change: up  (comparison value 5.0 -> 6)
 RC: 0.0361923
 saved_as: step1_GHI_vs_Proximity_to_main_roads_up_from5_to6.txt
 

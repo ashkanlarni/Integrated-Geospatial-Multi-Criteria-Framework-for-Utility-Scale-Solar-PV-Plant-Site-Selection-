@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Slope vs Proximity to urban area
 matrix indices (upper tri): i=2, j=6
-change: down×2  (comparison value 3 -> 1)
+change: down×2  (comparison value 3.0 -> 1)
 RC: 0.0392556
 saved_as: step2_Slope_vs_Proximity_to_urban_area_downx2_from3_to1.txt
 

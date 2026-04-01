@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Aspect vs Cloud amount
 matrix indices (upper tri): i=3, j=10
-change: down  (comparison value 3 -> 2)
+change: down  (comparison value 3.0 -> 2)
 RC: 0.0373508
 saved_as: step1_Aspect_vs_Cloud_amount_down_from3_to2.txt
 

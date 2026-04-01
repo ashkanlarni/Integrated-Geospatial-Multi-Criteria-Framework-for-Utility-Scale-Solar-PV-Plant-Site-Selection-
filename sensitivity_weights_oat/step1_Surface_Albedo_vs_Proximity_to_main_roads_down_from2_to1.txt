@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Surface Albedo vs Proximity to main roads
 matrix indices (upper tri): i=4, j=8
-change: down  (comparison value 2 -> 1)
+change: down  (comparison value 2.0 -> 1)
 RC: 0.0353846
 saved_as: step1_Surface_Albedo_vs_Proximity_to_main_roads_down_from2_to1.txt
 

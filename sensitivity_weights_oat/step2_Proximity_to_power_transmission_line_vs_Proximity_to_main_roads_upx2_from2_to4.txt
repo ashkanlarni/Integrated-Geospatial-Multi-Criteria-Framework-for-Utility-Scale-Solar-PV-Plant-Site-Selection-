@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Proximity to power transmission line vs Proximity to main roads
 matrix indices (upper tri): i=7, j=8
-change: up×2  (comparison value 2 -> 4)
+change: up×2  (comparison value 2.0 -> 4)
 RC: 0.0398923
 saved_as: step2_Proximity_to_power_transmission_line_vs_Proximity_to_main_roads_upx2_from2_to4.txt
 

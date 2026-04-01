@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Precipitation vs Relative humidity
 matrix indices (upper tri): i=9, j=11
-change: down×2  (comparison value 1 -> 0.3333333333333333)
+change: down×2  (comparison value 1.0 -> 0.3333333333333333)
 RC: 0.0416459
 saved_as: step2_Precipitation_vs_Relative_humidity_downx2_from1_to0.333333.txt
 

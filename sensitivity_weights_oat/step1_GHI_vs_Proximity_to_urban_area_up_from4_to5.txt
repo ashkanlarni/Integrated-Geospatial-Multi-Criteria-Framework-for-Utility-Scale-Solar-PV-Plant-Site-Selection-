@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: GHI vs Proximity to urban area
 matrix indices (upper tri): i=0, j=6
-change: up  (comparison value 4 -> 5)
+change: up  (comparison value 4.0 -> 5)
 RC: 0.036065
 saved_as: step1_GHI_vs_Proximity_to_urban_area_up_from4_to5.txt
 

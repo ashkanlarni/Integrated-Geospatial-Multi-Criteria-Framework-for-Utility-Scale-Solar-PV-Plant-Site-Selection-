@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Average temperature vs Proximity to power transmission line
 matrix indices (upper tri): i=1, j=7
-change: down×2  (comparison value 2 -> 0.5)
+change: down×2  (comparison value 2.0 -> 0.5)
 RC: 0.0481741
 saved_as: step2_Average_temperature_vs_Proximity_to_power_transmission_line_downx2_from2_to0.5.txt
 

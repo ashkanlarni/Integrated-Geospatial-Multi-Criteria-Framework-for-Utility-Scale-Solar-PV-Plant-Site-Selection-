@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Surface Albedo vs Cloud amount
 matrix indices (upper tri): i=4, j=10
-change: up×2  (comparison value 2 -> 4)
+change: up×2  (comparison value 2.0 -> 4)
 RC: 0.0373348
 saved_as: step2_Surface_Albedo_vs_Cloud_amount_upx2_from2_to4.txt
 

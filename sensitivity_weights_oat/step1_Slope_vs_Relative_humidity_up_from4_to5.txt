@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Slope vs Relative humidity
 matrix indices (upper tri): i=2, j=11
-change: up  (comparison value 4 -> 5)
+change: up  (comparison value 4.0 -> 5)
 RC: 0.0361385
 saved_as: step1_Slope_vs_Relative_humidity_up_from4_to5.txt
 

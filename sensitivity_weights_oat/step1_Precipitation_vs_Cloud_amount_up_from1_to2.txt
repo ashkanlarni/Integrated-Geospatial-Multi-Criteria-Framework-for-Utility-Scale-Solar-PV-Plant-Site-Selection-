@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Precipitation vs Cloud amount
 matrix indices (upper tri): i=9, j=10
-change: up  (comparison value 1 -> 2)
+change: up  (comparison value 1.0 -> 2)
 RC: 0.0385022
 saved_as: step1_Precipitation_vs_Cloud_amount_up_from1_to2.txt
 

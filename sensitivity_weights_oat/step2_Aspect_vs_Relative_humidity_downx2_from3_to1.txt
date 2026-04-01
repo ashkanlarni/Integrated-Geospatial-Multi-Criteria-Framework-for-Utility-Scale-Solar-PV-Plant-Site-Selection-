@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Aspect vs Relative humidity
 matrix indices (upper tri): i=3, j=11
-change: down×2  (comparison value 3 -> 1)
+change: down×2  (comparison value 3.0 -> 1)
 RC: 0.041379
 saved_as: step2_Aspect_vs_Relative_humidity_downx2_from3_to1.txt
 

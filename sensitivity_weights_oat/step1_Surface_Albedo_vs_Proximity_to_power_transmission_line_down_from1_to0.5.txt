@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Surface Albedo vs Proximity to power transmission line
 matrix indices (upper tri): i=4, j=7
-change: down  (comparison value 1 -> 0.5)
+change: down  (comparison value 1.0 -> 0.5)
 RC: 0.0384769
 saved_as: step1_Surface_Albedo_vs_Proximity_to_power_transmission_line_down_from1_to0.5.txt
 

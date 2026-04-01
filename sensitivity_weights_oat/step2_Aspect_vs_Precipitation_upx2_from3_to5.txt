@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Aspect vs Precipitation
 matrix indices (upper tri): i=3, j=9
-change: up×2  (comparison value 3 -> 5)
+change: up×2  (comparison value 3.0 -> 5)
 RC: 0.0370962
 saved_as: step2_Aspect_vs_Precipitation_upx2_from3_to5.txt
 

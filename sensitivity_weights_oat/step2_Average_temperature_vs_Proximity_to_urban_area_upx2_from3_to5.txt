@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Average temperature vs Proximity to urban area
 matrix indices (upper tri): i=1, j=6
-change: up×2  (comparison value 3 -> 5)
+change: up×2  (comparison value 3.0 -> 5)
 RC: 0.0367362
 saved_as: step2_Average_temperature_vs_Proximity_to_urban_area_upx2_from3_to5.txt
 

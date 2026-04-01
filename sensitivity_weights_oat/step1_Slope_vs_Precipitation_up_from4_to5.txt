@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Slope vs Precipitation
 matrix indices (upper tri): i=2, j=9
-change: up  (comparison value 4 -> 5)
+change: up  (comparison value 4.0 -> 5)
 RC: 0.0361385
 saved_as: step1_Slope_vs_Precipitation_up_from4_to5.txt
 

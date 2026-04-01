@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Average temperature vs Slope
 matrix indices (upper tri): i=1, j=2
-change: down  (comparison value 2 -> 1)
+change: down  (comparison value 2.0 -> 1)
 RC: 0.0345722
 saved_as: step1_Average_temperature_vs_Slope_down_from2_to1.txt
 

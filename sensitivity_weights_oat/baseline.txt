@@ -1,4 +1,4 @@
-Baseline (unperturbed data_crisp -> fuzzy AHP)
+Baseline (data_crisp midpoints from fuzzy matrix -> fuzzy AHP)
 winner: GHI
 RC: 0.0360895
 

@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Average temperature vs Proximity to main roads
 matrix indices (upper tri): i=1, j=8
-change: down  (comparison value 4 -> 3)
+change: down  (comparison value 4.0 -> 3)
 RC: 0.0363709
 saved_as: step1_Average_temperature_vs_Proximity_to_main_roads_down_from4_to3.txt
 

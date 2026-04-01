@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: GHI vs Cloud amount
 matrix indices (upper tri): i=0, j=10
-change: down×2  (comparison value 7 -> 5)
+change: down×2  (comparison value 7.0 -> 5)
 RC: 0.0367055
 saved_as: step2_GHI_vs_Cloud_amount_downx2_from7_to5.txt
 

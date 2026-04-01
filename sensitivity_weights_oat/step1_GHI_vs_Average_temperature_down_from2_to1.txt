@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: GHI vs Average temperature
 matrix indices (upper tri): i=0, j=1
-change: down  (comparison value 2 -> 1)
+change: down  (comparison value 2.0 -> 1)
 RC: 0.0352494
 saved_as: step1_GHI_vs_Average_temperature_down_from2_to1.txt
 

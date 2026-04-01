@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Air pressure vs Cloud amount
 matrix indices (upper tri): i=5, j=10
-change: up  (comparison value 3 -> 4)
+change: up  (comparison value 3.0 -> 4)
 RC: 0.0362302
 saved_as: step1_Air_pressure_vs_Cloud_amount_up_from3_to4.txt
 

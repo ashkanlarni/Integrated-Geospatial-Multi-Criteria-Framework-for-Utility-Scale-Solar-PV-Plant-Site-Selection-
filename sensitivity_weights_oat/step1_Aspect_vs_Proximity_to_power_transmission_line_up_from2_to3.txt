@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Aspect vs Proximity to power transmission line
 matrix indices (upper tri): i=3, j=7
-change: up  (comparison value 2 -> 3)
+change: up  (comparison value 2.0 -> 3)
 RC: 0.0380999
 saved_as: step1_Aspect_vs_Proximity_to_power_transmission_line_up_from2_to3.txt
 

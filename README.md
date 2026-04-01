@@ -14,6 +14,18 @@ Or, inside `main.ipynb`, uncomment the first code cell and run `%pip install -r 
 
 ## Notebook (`main.ipynb`)
 
-`main.ipynb` implements **fuzzy Analytic Hierarchy Process (AHP)** for twelve solar site-selection criteria (e.g. GHI, slope, proximity to grid and roads, climate variables). It builds a consensus pairwise comparison matrix from expert judgments, converts it to triangular fuzzy numbers, runs `pyDecision`’s fuzzy AHP to obtain criterion weights and consistency checks, and includes **one-at-a-time sensitivity** on weights (outputs under `sensitivity_weights_oat/` and `results_summary/` when those sections are executed).
+`main.ipynb` runs **fuzzy Analytic Hierarchy Process (AHP)** for twelve solar site-selection criteria (e.g. GHI, slope, proximity to grid and roads, climate variables). The workflow is:
+
+1. **Fuzzy pairwise matrix** — triangular fuzzy numbers `(L, M, U)` per comparison (the values in the notebook match the paper’s consensus matrix after reciprocals and fuzzification).
+2. **Fuzzy AHP** — `pyDecision`’s `fuzzy_ahp_method` for fuzzy, defuzzified, and normalized weights plus the consistency ratio (RC).
+3. **Results** — printed weights and a pie chart of normalized weights.
+4. **One-at-a-time (OAT) sensitivity** — perturbs crisp midpoints of the fuzzy comparisons on the Saaty scale, then re-runs reciprocal fill, fuzzification, and fuzzy AHP for each scenario.
+
+### Outputs (when you run the sensitivity section)
+
+| Location | Contents |
+|----------|----------|
+| `sensitivity_weights_oat/` | Normalized weights per scenario as `.txt` (TSV after a short header), plus a matching **pie chart `.png`** for each file (including `baseline.txt` / `baseline.png`). |
+| `results_summary/` | Excel summaries of the OAT runs (`oat_step1_summary.xlsx`, `oat_step2_summary.xlsx`). |
 
 Open the notebook with Jupyter Lab, Jupyter Notebook, or VS Code/Cursor after installing the dependencies.

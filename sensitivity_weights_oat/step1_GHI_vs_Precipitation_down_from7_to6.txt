@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: GHI vs Precipitation
 matrix indices (upper tri): i=0, j=9
-change: down  (comparison value 7 -> 6)
+change: down  (comparison value 7.0 -> 6)
 RC: 0.0362438
 saved_as: step1_GHI_vs_Precipitation_down_from7_to6.txt
 

@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: GHI vs Aspect
 matrix indices (upper tri): i=0, j=3
-change: up×2  (comparison value 3 -> 5)
+change: up×2  (comparison value 3.0 -> 5)
 RC: 0.038344
 saved_as: step2_GHI_vs_Aspect_upx2_from3_to5.txt
 

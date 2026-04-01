@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: GHI vs Surface Albedo
 matrix indices (upper tri): i=0, j=4
-change: down  (comparison value 3 -> 2)
+change: down  (comparison value 3.0 -> 2)
 RC: 0.0380603
 saved_as: step1_GHI_vs_Surface_Albedo_down_from3_to2.txt
 

@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Average temperature vs Air pressure
 matrix indices (upper tri): i=1, j=5
-change: up×2  (comparison value 2 -> 4)
+change: up×2  (comparison value 2.0 -> 4)
 RC: 0.0389798
 saved_as: step2_Average_temperature_vs_Air_pressure_upx2_from2_to4.txt
 

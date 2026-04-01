@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Average temperature vs Precipitation
 matrix indices (upper tri): i=1, j=9
-change: up×2  (comparison value 5 -> 7)
+change: up×2  (comparison value 5.0 -> 7)
 RC: 0.0363637
 saved_as: step2_Average_temperature_vs_Precipitation_upx2_from5_to7.txt
 

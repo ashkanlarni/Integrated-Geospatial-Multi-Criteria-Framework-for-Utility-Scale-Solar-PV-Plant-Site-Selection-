@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Proximity to power transmission line vs Relative humidity
 matrix indices (upper tri): i=7, j=11
-change: up  (comparison value 2 -> 3)
+change: up  (comparison value 2.0 -> 3)
 RC: 0.0359996
 saved_as: step1_Proximity_to_power_transmission_line_vs_Relative_humidity_up_from2_to3.txt
 

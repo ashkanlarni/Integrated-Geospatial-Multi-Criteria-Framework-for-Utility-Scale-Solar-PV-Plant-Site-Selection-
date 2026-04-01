@@ -1,7 +1,7 @@
 OAT perturbation (step size 2 on AHP scale)
 pair: Proximity to main roads vs Precipitation
 matrix indices (upper tri): i=8, j=9
-change: down×2  (comparison value 2 -> 0.5)
+change: down×2  (comparison value 2.0 -> 0.5)
 RC: 0.039874
 saved_as: step2_Proximity_to_main_roads_vs_Precipitation_downx2_from2_to0.5.txt
 

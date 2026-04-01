@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Aspect vs Air pressure
 matrix indices (upper tri): i=3, j=5
-change: down  (comparison value 1 -> 0.5)
+change: down  (comparison value 1.0 -> 0.5)
 RC: 0.0383246
 saved_as: step1_Aspect_vs_Air_pressure_down_from1_to0.5.txt
 

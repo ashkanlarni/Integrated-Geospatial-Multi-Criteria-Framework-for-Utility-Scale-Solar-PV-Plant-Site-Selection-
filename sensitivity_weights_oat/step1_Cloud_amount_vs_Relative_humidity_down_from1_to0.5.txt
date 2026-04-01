@@ -1,7 +1,7 @@
 OAT perturbation (step size 1 on AHP scale)
 pair: Cloud amount vs Relative humidity
 matrix indices (upper tri): i=10, j=11
-change: down  (comparison value 1 -> 0.5)
+change: down  (comparison value 1.0 -> 0.5)
 RC: 0.0385022
 saved_as: step1_Cloud_amount_vs_Relative_humidity_down_from1_to0.5.txt
 
